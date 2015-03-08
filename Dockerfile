@@ -25,4 +25,4 @@ ENV P4A_ROOT /usr/local/par4all
 ENV PYTHONPATH /usr/local/par4all/lib/python2.7/site-packages/pips
 ENV PKG_CONFIG_PATH /usr/local/par4all/lib/pkgconfig
 
-CMD ["p4a"]
+#CMD ["p4a"]
